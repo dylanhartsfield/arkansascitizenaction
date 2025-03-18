@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arkansas Citizens Action</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; }
+        header { background: #333; color: #fff; padding: 10px; text-align: center; }
+        nav ul { list-style: none; padding: 0; text-align: center; }
+        nav ul li { display: inline; margin-right: 15px; }
+        nav ul li a { color: #333; text-decoration: none; font-weight: bold; }
+        .container { max-width: 800px; margin: auto; padding: 20px; }
+        .topic { margin-bottom: 20px; }
+        footer { text-align: center; margin-top: 20px; padding-top: 10px; border-top: 1px solid #ccc; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Arkansas Citizens Action</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="right-to-choose.html">Right To Choose</a></li>
+            <li><a href="franklin-county-prison.html">Franklin County Prison</a></li>
+            <li><a href="nitrogen-gas-execution.html">Nitrogen Gas Execution</a></li>
+            <li><a href="contact-rep.html">Contact My Representative</a></li>
+            <li><a href="right-to-petition.html">Right to Petition</a></li>
+            <li><a href="access-education-bill.html">ACCESS Education Bill</a></li>
+            <li><a href="repeal-learns-act.html">Repeal LEARNS Act</a></li>
+            <li><a href="immigration.html">Immigration</a></li>
+            <li><a href="sb340.html">SB340</a></li>
+        </ul>
+    </nav>
+    
+    <div class="container">
+        <h2>Welcome to Arkansas Citizens Action</h2>
+        <p>
+            Arkansas Citizens Action is a grassroots initiative aimed at providing Arkansans with the tools and information 
+            needed to contact their representatives and advocate for important issues. Below are some key topics you can explore.
+        </p>
+        
+        <h3>How to Use This Site</h3>
+        <p>
+            Click on any topic in the navigation bar to learn more. Each page contains information about the issue, 
+            relevant legislation, and how you can take action by contacting your state representatives.
+        </p>
+        
+        <h3>Key Issues</h3>
+        <div class="topic">
+            <h4>Right To Choose</h4>
+            <p>Understand the current status of reproductive rights in Arkansas.</p>
+        </div>
+        <div class="topic">
+            <h4>Franklin County Prison</h4>
+            <p>Learn about prison conditions and recent issues in Franklin County.</p>
+        </div>
+        <div class="topic">
+            <h4>Nitrogen Gas Execution</h4>
+            <p>Details on the controversial execution method recently implemented in Arkansas.</p>
+        </div>
+        <div class="topic">
+            <h4>Contact My Representative</h4>
+            <p>Find your state representative and send them a message about these issues.</p>
+        </div>
+    </div>
+    
+    <footer>
+        <p>&copy; 2025 Arkansas Citizens Action. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
